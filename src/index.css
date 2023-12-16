@@ -1,0 +1,15 @@
+.Signup {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10%;
+}
+
+.input {
+    width: 100%;
+}
+
+.newform {
+    background-image: url("./17973908.jpg");
+}

@@ -1,0 +1,22 @@
+.Login {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10%;
+    
+}
+
+.inpu {
+    width: 100%;
+    
+}
+
+body {
+    background-color: rgb(0, 0, 0) !important;
+    background-image: url("./6106991.jpg");
+    background-repeat: no-repeat;
+}
+.newForm{
+    background-image: url("./17973908.jpg");
+}
