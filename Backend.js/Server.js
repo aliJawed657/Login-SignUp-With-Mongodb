@@ -10,7 +10,7 @@ app.use(express.json())
 app.use(cors())
 
 
-mongoose.connect("mongodb+srv://jani:login@cluster0.82abepe.mongodb.net/signup?retryWrites=true&w=majority")
+mongoose.connect("mongodb+srv://:login@cluster0.82abepe.mongodb.net/signup?retryWrites=true&w=majority")
     .then(() => {
         console.log("mongodb connected")
     }).catch((err) => {
